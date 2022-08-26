@@ -13,13 +13,15 @@
 
 - 🤝 I’m looking for help with **ROS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vi-Ku](https://github.com/Vi-Ku)
+- 👨‍💻 All of my projects are available at [Vi-Ku](https://github.com/Vi-Ku)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/vi-ku/](https://www.linkedin.com/in/vi-ku/)
+- 📝 I regularly write articles on [vi-ku](https://www.linkedin.com/in/vi-ku/)
 
 - 💬 Ask me about **ROS, Computer Vision, CAD, Control System**
 
 - 📫 How to reach me **mpd18i027@iiitdm.ac.in**
+
+- Find my Resume, if you have any opening for me. [Resume](https://drive.google.com/file/d/1eorBIi0pDYQoN-6boEywCdi_t3ICGr0z/view?usp=sharing)
 
 - ⚡ Fun fact **I am mad and wise at the same time.**
 
