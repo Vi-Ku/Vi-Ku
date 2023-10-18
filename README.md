@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vi-ku" alt="vi-ku" /></a> </p>
 
-- 🔭 I’m currently working on [Mars Rover](https://marsroversociety.netlify.app/)
+- 🔭 I’m currently working on [Autonomous Mobile Robots, Automated Guided Vehicle, Collaborative Robots and Fleet Management System(https://addverb.com)
 
-- 🌱 I’m currently learning **ROS, Computer Vision, Reinforcement Learning, Control System and CAD**
+- 🌱 I’m currently learning **ROS, Computer Vision, Reinforcement Learning, Control System, Motion planners, Fleet Management System and CAD**
 
-- 🤝 I’m looking for help with **ROS**
+- 🤝 I’m looking for help with **ROS and Scalable Systems**
 
 - 👨‍💻 All of my projects are available at [Vi-Ku](https://github.com/Vi-Ku)
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **ROS, Computer Vision, CAD, Control System**
 
-- 📫 How to reach me **mpd18i027@iiitdm.ac.in**
+- 📫 How to reach me **vishalmimani008@gmail.com**
 
 - Find my Resume, if you have any opening for me. [Resume](https://drive.google.com/file/d/1eorBIi0pDYQoN-6boEywCdi_t3ICGr0z/view?usp=sharing)
 
