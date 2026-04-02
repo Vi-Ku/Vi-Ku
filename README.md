@@ -1,40 +1,45 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A passionate Robotics Software Design Engineer from India</h3>
+<h3 align="center">Robotics Software Design Engineer | Problem Solver</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vi-ku&label=Profile%20views&color=0e75b6&style=flat" alt="vi-ku" /> </p>
+<p align="center"> 
+  <a href="https://viku-portfolio.netlify.app/"><b>Portfolio</b></a> • 
+  <a href="https://vishalkumarr2.github.io/Learning_from_building_systems/"><b>Tech Notes</b></a> • 
+  <a href="https://drive.google.com/file/d/1eorBIi0pDYQoN-6boEywCdi_t3ICGr0z/view?usp=sharing"><b>Resume</b></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vi-ku" alt="vi-ku" /></a> </p>
+---
 
-- 🔭 I’m currently working on [Autonomous Mobile Robots, Automated Guided Vehicle, Collaborative Robots and Fleet Management System(https://www.rapyuta-robotics.com/)
+### 🧠 My Philosophy
 
-- 🌱 I’m currently learning **ROS, Computer Vision, Reinforcement Learning, Control System, Motion planners, Fleet Management System and CAD**
+> **Problem-solving is my oxygen.** It doesn't matter the domain, the region, or the industry—if there is a complex challenge, I am driven to figure it out. At 25, I've had the privilege of learning some tough but invaluable lessons from the people around me. They've taught me the most important lesson of all: the profound difference between simply accumulating *knowledge* and actually applying *wisdom*. 
 
-- 🤝 I’m looking for help with **ROS and Scalable Systems**
+---
 
-- 👨‍💻 All of my projects are available at [Vi-Ku](https://github.com/Vi-Ku)
+### 🚀 What I'm Up To
 
-- 📝 I regularly write articles on [vi-ku](https://www.linkedin.com/in/vi-ku/)
+- 🌐 **My Portfolio:** Check out my projects and background at [viku-portfolio.netlify.app](https://viku-portfolio.netlify.app/)
+- ✍️ **My Tech Blog:** Read my articles on [Learning from Building Systems](https://vishalkumarr2.github.io/Learning_from_building_systems/)
+- 🔭 **Currently Engineering:** Autonomous Mobile Robots (AMRs) & Fleet Management Systems at [Rapyuta Robotics](https://www.rapyuta-robotics.com/).
+- 📫 **Reach Me At:** vishalmimani008@gmail.com
+- ⚡ **Fun Fact:** I am mad and wise at the same time.
 
-- 💬 Ask me about **ROS, Computer Vision, CAD, Control System**
+---
 
-- 📫 How to reach me **vishalmimani008@gmail.com**
+### 📊 GitHub Stats
 
-- Find my Resume, if you have any opening for me. [Resume](https://drive.google.com/file/d/1eorBIi0pDYQoN-6boEywCdi_t3ICGr0z/view?usp=sharing)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vi-ku&show_icons=true&locale=en&hide_border=true" alt="vi-ku stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vi-ku&show_icons=true&locale=en&layout=compact&hide_border=true" alt="vi-ku top languages" height="150" />
+</p>
 
-- ⚡ Fun fact **I am mad and wise at the same time.**
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vi-ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vi-ku" height="30" width="40" /></a>
-<a href="https://kaggle.com/vi-ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vi-ku" height="30" width="40" /></a>
-<a href="https://instagram.com/vi____ku___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vi____ku___" height="30" width="40" /></a>
-<a href="https://medium.com/@vi-ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vi-ku" height="30" width="40" /></a>
+<h3 align="center">Let's Connect</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/vi-ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://kaggle.com/vi-ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+  <a href="https://medium.com/@vi-ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
+  <a href="https://instagram.com/vi____ku___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
