@@ -25,15 +25,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vi-ku&show_icons=true&locale=en&hide_border=true" alt="vi-ku stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vi-ku&show_icons=true&locale=en&layout=compact&hide_border=true" alt="vi-ku top languages" height="150" />
-</p>
-
----
-
 <h3 align="center">Let's Connect</h3>
 <p align="center">
   <a href="https://linkedin.com/in/vi-ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
